@@ -1,10 +1,10 @@
-# _Mr Roboger_
+# _Pizza Parlor_
 
 #### By _**Niles O'Neil**_
 
-#### _A number to text translator_
+#### _A website for figuring out pizza cost_
 
-[Link to hosted site](https://nilesoneil.github.io/project_3/)
+
 
 ## Technologies Used
 
